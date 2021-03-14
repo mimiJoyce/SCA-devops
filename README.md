@@ -1,1 +1,1 @@
-# SCA-Cloud-School-Application
+# SCA-devops
