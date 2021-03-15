@@ -1,3 +1,3 @@
 # SCA-devops
 
-This repo is for SCA DevOps levelled membership assessment
+This repo is for SCA DevOps levelled membership assessment level 1
